@@ -85,6 +85,49 @@ const restaurent = {
 // copying object -
 // )
 
+// rest pattern (
+//  destructuring object using rest pattern -
+// )
+
+// short circuit (
+// Short-circuiting with the Logical AND (&&) operator -
+//  Short-circuiting with the Logical OR (||) operator -
+// )
+
+// logical assignment operator (
+// nullish coalescing opereator -
+// logical OR assignment operator -
+// logical AND assignment operator -
+// )
+
+// optionat chaining -
+
+// looping object (
+// object.keys -
+// object.values -
+// objest.entries -
+// )
+
+// set (
+// set methods -
+// )
+
+// map (
+// basics of map -
+// looping map -
+// turning object into map -
+// turning map into array -
+// )
+
+// string methods (
+// slice method -
+// toLowerCase and toUperCase meathod -
+// trim meathod -
+// replace method -
+// reaeat method -
+// splite and join method
+// )
+
 //============================================================================================================================================//
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //============================================================================================================================================//
@@ -425,7 +468,7 @@ const restaurent = {
 
 // //  Copying an object means creating a new object with the same properties and values as the original object.
 
-//============================================================================================================================================//
+//--------------------------------------------------------------------------------------------------------------------------------------------//
 
 // // old system
 
@@ -552,7 +595,7 @@ const restaurent = {
 
 //============================================================================================================================================//
 
-// // Short-circuiting with the Logical OR (||) operator:
+// // Short-circuiting with the Logical OR (||) operator
 
 // // If the first operand is truthy, the result will be the first operand itself, and the second operand is not evaluated. //
 
