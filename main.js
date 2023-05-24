@@ -1078,3 +1078,26 @@ const restaurent = {
 // airport(2);
 // airport(5);
 // airport(9);
+
+//============================================================================================================================================//
+
+// // splite and join method
+
+// // The split() and join() methods are used for manipulating strings in JavaScript. //
+
+// // split - The split() method is used to split a string into an array of substrings based on a specified separator. //
+
+// // join - The join() method is used to join the elements of an array into a string using a specified separator. //
+
+//--------------------------------------------------------------------------------------------------------------------------------------------//
+
+// const split =
+//   "The+split()+and+join()+methods+are+used+for+manipulating+strings+in+JavaScript.".split(
+//     "+"
+//   );
+
+// console.log(split);
+
+// const join = split.join(" ");
+
+// console.log(join);
